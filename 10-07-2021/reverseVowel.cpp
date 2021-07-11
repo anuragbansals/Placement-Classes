@@ -1,6 +1,7 @@
 // https://leetcode.com/problems/reverse-vowels-of-a-string/
 #include <bits/stdc++.h>
 using namespace std;
+
 bool isVowel(char c)
 {
     if (
@@ -36,6 +37,7 @@ string reverseVowels(string s)
     }
     return s;
 }
+
 int main()
 {
     freopen("input.txt", "r", stdin);
