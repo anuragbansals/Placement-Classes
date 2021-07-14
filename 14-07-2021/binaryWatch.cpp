@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/binary-watch/
 #include<bits/stdc++.h>
 using namespace std;
 
